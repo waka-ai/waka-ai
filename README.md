@@ -95,10 +95,10 @@ Production-ready data extraction systems
 
 ## 🎯 Currently
 
-- 🔭 Delivering Python projects on Fiverr & Upwork
-- 🌱 Expanding skills in advanced Django & RESTful APIs
-- 💼 Available for web development, automation & data solutions
-- ⚡ Open to freelance projects and long-term contracts
+- 🔥 Actively taking on Python development projects
+- 📈 Delivering automation solutions that save clients 20+ hours weekly
+- 🎓 Continuously improving Django & database optimization skills
+- 💼 Available for freelance work: Web apps, APIs, automation, scraping
 
 ---
 
