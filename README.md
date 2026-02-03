@@ -92,13 +92,25 @@ Production-ready data extraction systems
 * 💼 Upwork: (Add link)
 
 ---
+### 💼 Available For
+
+✅ Custom web application development (Flask, Django, FastAPI)  
+✅ Python automation & scripting (save hours of manual work)  
+✅ Web scraping & data extraction (any website to Excel/CSV)  
+✅ REST API development & integration  
+✅ Bug fixes & code optimization  
+
+**Typical turnaround:** 3-7 days | **Communication:** Daily updates
+
+---
 
 ## 🎯 Currently
 
-- 🔥 Actively taking on Python development projects
-- 📈 Delivering automation solutions that save clients 20+ hours weekly
-- 🎓 Continuously improving Django & database optimization skills
-- 💼 Available for freelance work: Web apps, APIs, automation, scraping
+- 🔭 Building web apps & automation tools for clients globally
+- 🌱 Expanding expertise in Django, REST APIs & full-stack development
+- 💼 **Available for freelance projects** - Fast turnaround, quality guaranteed
+- ⚡ **Specializing in:** Python web apps | Automation | Data scraping | APIs
+- 💬 Open to short-term gigs and long-term contracts - Let's connect!
 
 ---
 
