@@ -32,16 +32,6 @@ Web-based code auditing system for security & quality analysis
 * Structured HTML reporting
 * Flask + React interface
 
----
-
-### 👻 Phantom Social Platform
-
-Anonymous social networking platform
-
-* User authentication & profile system
-* Real-time interactions
-* Responsive and modern UI
-* Backend-driven architecture
 
 ---
 
@@ -89,7 +79,6 @@ Production-ready data extraction systems
 * Custom Web Application Development
 * Python Automation & Workflow Systems
 * Web Scraping & Data Extraction
-* REST API Development
 * Database Design & Optimization
 * Security-focused Code Auditing
 
@@ -97,7 +86,7 @@ Production-ready data extraction systems
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your.email@gmail.com](mailto:your.email@gmail.com)
+* 📧 Email: [eshalrais2607@gmail.com]
 * 💼 LinkedIn: linkedin.com/in/yourname
 * 💼 Fiverr: (Add link)
 * 💼 Upwork: (Add link)
@@ -106,10 +95,10 @@ Production-ready data extraction systems
 
 ## 🎯 Currently
 
-* Building freelance client projects
-* Expanding expertise in Django & React
-* Developing scalable backend systems
-* Open to freelance and contract opportunities
+- 🔭 Delivering Python projects on Fiverr & Upwork
+- 🌱 Expanding skills in advanced Django & RESTful APIs
+- 💼 Available for web development, automation & data solutions
+- ⚡ Open to freelance projects and long-term contracts
 
 ---
 
